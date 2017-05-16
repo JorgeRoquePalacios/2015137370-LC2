@@ -1,0 +1,12 @@
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.exe.config
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.exe
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.pdb
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-ENT.dll
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-PER.dll
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.dll
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-ENT.pdb
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-PER.pdb
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.xml
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.csprojResolveAssemblyReference.cache
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.exe
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.pdb

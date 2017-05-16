@@ -1,0 +1,4 @@
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\bin\Debug\2015137370-ENT.dll
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\bin\Debug\2015137370-ENT.pdb
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\obj\Debug\2015137370-ENT.dll
+c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\obj\Debug\2015137370-ENT.pdb
