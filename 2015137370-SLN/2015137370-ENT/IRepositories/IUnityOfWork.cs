@@ -8,28 +8,24 @@ namespace _2015137370_ENT.IRepositories
 {
     public interface IUnityOfWork : IDisposable
     {
+        IAdministrativoRepository Administrativos { get; }
+        IBusRepository Buses { get; }
+        IClienteRepository Clientes { get; }
+        IEmpleadoRepository Empleados { get; }
+        IEncomiendaRepository Encomiendas { get; }
+        ILugarViajeRepository LugarViajes { get; }
+        IServicioRepository Servicios { get; }
+        ITipoComprobanteRepository TipoComprobantes { get; }
+        ITipoLugarRepository TipoLugares { get; }
+        ITipoPagoRepository TipoPagos { get; }
+        ITipoTripulacionRepository TipoTripulacion { get; }
+        ITipoViajeRepository TipoViajes { get; }
+        ITransporteRepository Transportes { get; }
+        ITripulacionRepository Tripulacion { get; }
+        IVentaRepository Ventas { get; }
 
+        int SaveChanges();
 
-        IAdministrativoRepository Administrativo { get; }
-        IBusRepository IBus { get; }
-        IClienteRepository ICliente { get; }
-        IEmpleadoRepository IEmpleado { get; }
-        ILugarViajeRepository Ilugarviaje { get; }
-        IEncomiendaRepository IEncomienda { get; }
-        IServiceProvider IServicio { get; }
-        ITipoComprobanteRepository ItipoComprobante { get; }
-        ITipoLugarRepository ItIpoLugar { get; }
-        ITipoPagoRepository ItIpoPago { get; }
-        ITipoTripulacionRepository ItipoTripulacion { get; }
-        ITipoViajeRepository ItipoViaje { get; }
-        ITransporteRepository Itransporte { get; }
-        ITripulacionRepository Itripulacion { get; }
-        IVentaRepository Iventa { get; }
-
-
-        int SaveChange();
-
-
-
+        void StateModified(object entity);
     }
 }

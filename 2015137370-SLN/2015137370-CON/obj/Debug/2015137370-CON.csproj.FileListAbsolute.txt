@@ -1,12 +1,26 @@
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.exe.config
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.exe
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-CON.pdb
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-ENT.dll
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-PER.dll
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.dll
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-ENT.pdb
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\2015137370-PER.pdb
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.xml
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.csprojResolveAssemblyReference.cache
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.exe
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-CON.exe.config
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-CON.exe
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-CON.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-ENT.dll
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-PER.dll
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-ENT.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-PER.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\2014118110-PER.dll.config
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\obj\Debug\2015137370-CON.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\obj\Debug\2014118110-CON.exe
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-CON\obj\Debug\2014118110-CON.pdb
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-CON.exe.config
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-CON.exe
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-CON.pdb
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-ENT.dll
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-PER.dll
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-ENT.pdb
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-PER.pdb
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\2014118110-PER.dll.config
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\obj\Debug\2015137370-CON.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\obj\Debug\2014118110-CON.exe
+C:\Users\Bruno\Desktop\222\2015137370-SLN\2015137370-CON\obj\Debug\2014118110-CON.pdb

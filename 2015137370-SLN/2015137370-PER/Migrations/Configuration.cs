@@ -5,14 +5,14 @@ namespace _2015137370_PER.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<_2015137370_PER.DBContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<_2015137370_PER.TransporteDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(_2015137370_PER.DBContext context)
+        protected override void Seed(_2015137370_PER.TransporteDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

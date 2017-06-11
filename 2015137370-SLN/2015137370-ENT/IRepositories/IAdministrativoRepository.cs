@@ -8,6 +8,5 @@ namespace _2015137370_ENT.IRepositories
 {
     public interface IAdministrativoRepository : IRepository<Administrativo>
     {
-        IEnumerable<Administrativo> GetAdministrativoWhitVenta(int pageIndex, int pageSize);
     }
 }

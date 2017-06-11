@@ -1,4 +1,5 @@
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\bin\Debug\2015137370-ENT.dll
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\bin\Debug\2015137370-ENT.pdb
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\obj\Debug\2015137370-ENT.dll
-c:\users\adrian\documents\visual studio 2012\Projects\2015137370-SLN\2015137370-ENT\obj\Debug\2015137370-ENT.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-ENT\bin\Debug\2014118110-ENT.dll
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-ENT\bin\Debug\2014118110-ENT.pdb
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-ENT\obj\Debug\2015137370-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-ENT\obj\Debug\2014118110-ENT.dll
+C:\Users\Bruno\Desktop\222\2014118287-SLN\2014118287-ENT\obj\Debug\2014118110-ENT.pdb

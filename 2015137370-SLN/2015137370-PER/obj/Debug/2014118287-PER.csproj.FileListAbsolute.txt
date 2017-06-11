@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\2014118110-PER.dll.config
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\2014118110-PER.dll
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\2014118110-PER.pdb
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\2014118110-ENT.dll
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\2014118110-ENT.pdb
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\2014118287-PER.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\_2014118287_PER.Migrations.InitialModel.resources
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\_2014118287_PER.Migrations.UpdateChanges.resources
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\2014118287-PER.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\2014118110-PER.dll
+C:\Users\ASUS\Desktop\2014118287-SLN\2014118287-PER\obj\Debug\2014118110-PER.pdb

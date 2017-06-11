@@ -8,7 +8,5 @@ namespace _2015137370_ENT.IRepositories
 {
     public interface IEncomiendaRepository : IRepository<Encomienda>
     {
-
-        IEnumerable<Encomienda> GetAdministrativoWhitLugarViaje(int pageIndex, int pageSize);
     }
 }
